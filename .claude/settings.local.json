@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(echo $env:CLAUDE_CODE_SSE_PORT; echo $env:VSCODE_PID)"
+    ]
+  }
+}
